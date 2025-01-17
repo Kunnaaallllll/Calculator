@@ -6,7 +6,7 @@ public class Subtraction {
         System.out.print("Enter the numbers :");
         int n1=sc.nextInt();
         int n2=sc.nextInt();
-        int sum=n1+n2;
+        int sum=n1-n2;
         System.out.println("THe sum of your given numbers is : "+sum);
     }
 }
